@@ -6,19 +6,22 @@ const Header = () => {
         <h1 className="text-2xl font-bold">Christopher LaFumee</h1>
 
         {/* Navigation Links */}
-        <nav className="space-x-6">
-          <a href="#about" className="hover:text-orange-400 transition-colors">
+        <nav className="flex gap-4">
+          <a
+            href="#about"
+            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+          >
             About
           </a>
           <a
             href="#projects"
-            className="hover:text-orange-400 transition-colors"
+            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             Projects
           </a>
           <a
             href="#contact"
-            className="hover:text-orange-400 transition-colors"
+            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             Contact
           </a>

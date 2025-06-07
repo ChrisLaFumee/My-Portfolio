@@ -6,15 +6,9 @@ const Hero = () => {
           ChrisCross Coding
         </h1>
         <p className="text-xl md:text-2xl mb-8">
-          Full-Stack Developer | Health & Fitness Profressional | Small Business
+          Full-Stack Engineer | Health & Fitness Profressional | Small Business
           Owner | Community Builder
         </p>
-        <a
-          href="#projects"
-          className="inline-block bg-orange-700 hover:bg-orange-800 text-gray-100 font-semibold py-3 px-6 rounded-2xl transition-transform duration-300 hover:scale-105 no-underline"
-        >
-          My Projects
-        </a>
       </div>
     </section>
   );
