@@ -22,7 +22,7 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
             >
-              View Code
+              View App
             </a>
           </div>
           {/* Second Project */}
@@ -40,7 +40,7 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
             >
-              View Code
+              View App
             </a>
           </div>
           {/* Third Project */}
@@ -59,7 +59,7 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
             >
-              View Code
+              View App
             </a>
           </div>
           {/* Fourth Project */}
@@ -78,7 +78,7 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
             >
-              View Code
+              View App
             </a>
           </div>
         </div>
