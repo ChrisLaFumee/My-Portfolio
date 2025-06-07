@@ -6,7 +6,7 @@ const Hero = () => {
           ChrisCross Coding
         </h1>
         <p className="text-xl md:text-2xl mb-8">
-          Full-Stack Engineer | Health & Fitness Profressional | Small Business
+          Full-Stack Engineer | Health & Fitness Professional | Small Business
           Owner | Community Builder
         </p>
       </div>
