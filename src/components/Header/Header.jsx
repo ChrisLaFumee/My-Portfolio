@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <header className="sticky top-0 z-50 bg-black text-gray-100 overflow-x-hidden">
+    <header className="sticky top-0 z-50 bg-black text-gray-100 overflow-x-hidden border-b border-gray-800">
       <div className="w-full px-6 py-4 flex justify-between items-center">
         {/* Logo / Name */}
         <h1 className="text-2xl font-bold">Christopher LaFumee</h1>
