@@ -11,7 +11,7 @@ export default function Resume() {
             className="block max-w-xs mx-auto"
           >
             <img
-              src="src\assets\resume-thumbnail.png"
+              src="public\resume-thumbnail.png"
               alt="Resume Preview"
               className="mt-4 rounded-lg shadow-lg hover:opacity-80 transition"
             />
