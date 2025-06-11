@@ -1,9 +1,6 @@
 const Footer = () => {
   return (
-    <footer
-      id="contact"
-      className="w-full bg-black text-gray-400 py-6 mt-0 border-t border-gray-800"
-    >
+    <footer id="contact" className="py-8 w-full">
       <div className="w-full px-6 flex flex-col md:flex-row items-center justify-between text-sm">
         {/* Left side */}
         <p>
