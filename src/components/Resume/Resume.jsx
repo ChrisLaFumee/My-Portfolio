@@ -15,7 +15,7 @@ export default function Resume() {
             download
             className="transition-transform transform hover:scale-105"
           >
-            <button className="bg-gray-900 hover:bg-gray-800 text-orange-700 text-base sm:text-lg px-6 py-2 rounded-2xl shadow-md transition-colors">
+            <button className="bg-gray-900 hover:bg-gray-800 text-orange-700 border border-gray-700 text-base sm:text-lg px-6 py-2 rounded-2xl shadow-md transition-colors">
               Download Resume
             </button>
           </a>
