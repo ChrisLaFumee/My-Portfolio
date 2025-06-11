@@ -2,7 +2,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="w-full bg-gradient-to-b from-black via-gray-900 to-black text-gray-100 py-10 px-2 sm:px-4 md:px-6 border-t border-gray-800"
+      className="scroll-mt-20 w-full bg-gradient-to-b from-black via-gray-900 to-black text-gray-100 py-10 px-2 sm:px-4 md:px-6 border-t border-gray-800"
     >
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl sm:text-4xl font-bold mb-6">Projects</h2>

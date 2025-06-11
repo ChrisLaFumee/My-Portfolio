@@ -4,6 +4,7 @@ import Footer from "./components/Foooter/Footer";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Resume from "./components/Resume/Resume";
+import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Projects />
       <Resume />
       <Footer />
+      <ScrollToTopButton />
     </div>
   );
 }

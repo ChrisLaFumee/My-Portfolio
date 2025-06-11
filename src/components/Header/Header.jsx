@@ -22,6 +22,12 @@ const Header = () => {
             Projects
           </a>
           <a
+            href="#resume"
+            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50 text-sm sm:text-base text-center"
+          >
+            Resume
+          </a>
+          <a
             href="#contact"
             className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50 text-sm sm:text-base text-center"
           >
