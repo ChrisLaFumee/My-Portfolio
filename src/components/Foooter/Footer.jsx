@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer id="contact" className="py-8 w-full">
+    <footer id="contact" className="py-6 w-full">
       <div className="w-full px-6 flex flex-col md:flex-row items-center justify-between text-sm">
         {/* Left side */}
         <p>
