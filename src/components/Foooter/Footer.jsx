@@ -14,7 +14,7 @@ const Footer = () => {
             href="https://github.com/ChrisLaFumee"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-gray-900 hover:bg-gray-800 text-orange-700 border border-gray-700  font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 border border-gray-700  font-medium py-2 px-4 rounded-full transition-all duration-300"
           >
             GitHub
           </a>
@@ -22,7 +22,7 @@ const Footer = () => {
             href="https://linkedin.com/in/christopher-lafumee-488685327"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-gray-900 hover:bg-gray-800 text-orange-700 border border-gray-700 font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 border border-gray-700 font-medium py-2 px-4 rounded-full transition-all duration-300"
           >
             LinkedIn
           </a>
@@ -30,13 +30,13 @@ const Footer = () => {
             href="https://www.tiktok.com/@chriscrosscoding"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-gray-900 hover:bg-gray-800 text-orange-700 border border-gray-700 px-4 py-2 rounded-2xl shadow-md transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 border border-gray-700 px-4 py-2 rounded-2xl shadow-md transition-all duration-300"
           >
             TikTok
           </a>
           <a
             href="mailto:your@email.com"
-            className="bg-gray-900 hover:bg-gray-800 text-orange-700 border border-gray-700 font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 border border-gray-700 font-medium py-2 px-4 rounded-full transition-all duration-300"
           >
             Email
           </a>
