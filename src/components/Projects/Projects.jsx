@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <section id="projects" className="py-4 scroll-mt-20 w-full">
-      <div className="max-w-4xl mx-auto text-center">
+      <div className="max-w-4xl mx-auto text-center border-b border-gray-700 pb-8">
         <h2 className="text-3xl sm:text-4xl font-bold mb-6">Projects</h2>
         <div className="grid gap-6 md:grid-cols-2">
           {/* First Project */}
