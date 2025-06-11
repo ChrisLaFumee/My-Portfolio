@@ -3,7 +3,7 @@ const Header = () => {
     <header className="py-4 sticky top-0 z-50">
       <div className="w-full px-2 sm:px-4 md:px-6 py-4 flex flex-col md:flex-row justify-between items-center gap-2">
         {/* Logo / Name */}
-        <h1 className="text-xl sm:text-2xl font-bold mb-2 md:mb-0 text-center md:text-left">
+        <h1 className="text-xl sm:text-2xl font-bold drop-shadow-[0_0_1px_white] mb-2 md:mb-0 text-center md:text-left">
           Christopher LaFumee
         </h1>
 
