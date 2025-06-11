@@ -17,7 +17,7 @@ export default function Projects() {
               href="https://github.com/YourUsername/FitnessTrackerApp"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
+              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
             >
               View App
             </a>
@@ -35,7 +35,7 @@ export default function Projects() {
               href="https://github.com/YourUsername/FitnessTrackerApp"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
+              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
             >
               View App
             </a>
@@ -54,7 +54,7 @@ export default function Projects() {
               href="https://github.com/YourUsername/FitnessTrackerApp"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
+              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
             >
               View App
             </a>
@@ -73,7 +73,7 @@ export default function Projects() {
               href="https://github.com/YourUsername/FitnessTrackerApp"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-500 transition text-white text-sm sm:text-base"
+              className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
             >
               View App
             </a>

@@ -14,7 +14,7 @@ const Footer = () => {
             href="https://github.com/ChrisLaFumee"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 text-orange-700 font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             GitHub
           </a>
@@ -22,7 +22,7 @@ const Footer = () => {
             href="https://linkedin.com/in/christopher-lafumee-488685327"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 text-orange-700 font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             LinkedIn
           </a>
@@ -30,13 +30,13 @@ const Footer = () => {
             href="https://www.tiktok.com/@chriscrosscoding"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block bg-orange-700 text-white px-4 py-2 rounded-2xl shadow-md hover:bg-orange-600 transition"
+            className="bg-gray-900 hover:bg-gray-800 text-orange-700 px-4 py-2 rounded-2xl shadow-md transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             TikTok
           </a>
           <a
             href="mailto:your@email.com"
-            className="bg-orange-700 hover:bg-orange-800 text-white font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
+            className="bg-gray-900 hover:bg-gray-800 text-orange-700 font-medium py-2 px-4 rounded-full transition-all duration-300 shadow hover:shadow-orange-500/50"
           >
             Email
           </a>

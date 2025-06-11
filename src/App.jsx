@@ -8,7 +8,7 @@ import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton"
 
 function App() {
   return (
-    <div className="min-h-screen bg-zinc-900 text-sky-900">
+    <div className="min-h-screen bg-zinc-900 text-orange-700">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8"></div>
       <Header />
       <Hero />
