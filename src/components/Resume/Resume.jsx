@@ -24,7 +24,7 @@ export default function Resume() {
         </p>
 
         <a
-          href="/Tech-Resume.pdf"
+          href="/assets/Tech-Resume.pdf"
           download
           className="inline-block bg-gray-900 hover:bg-gray-800 border border-gray-700 text-base sm:text-lg px-6 py-2 rounded-2xl shadow-md transition-colors"
         >
