@@ -1,5 +1,3 @@
-import resumeThumb from "../../assets/Tech-Resume.png";
-
 export default function Resume() {
   return (
     <section id="resume" className="w-full">
@@ -7,13 +5,13 @@ export default function Resume() {
         <h2 className="text-3xl sm:text-4xl font-bold mb-4 pb-2">Resume</h2>
 
         <a
-          href="/Christopher-LaFumee-Resume.pdf"
+          href="/assets/Tech-Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="block max-w-[200px] mx-auto"
         >
           <img
-            src={resumeThumb}
+            src="/assets/Tech-Resume.png"
             alt="Resume Preview"
             className="mt-4 w-full rounded-lg shadow-lg hover:opacity-80 transition"
           />
@@ -30,14 +28,6 @@ export default function Resume() {
         >
           Download Resume
         </a>
-
-        <div className="flex justify-center mb-8">
-          <a
-            href="/Tech-Resume.pdf"
-            download
-            className="transition-transform transform hover:scale-105"
-          ></a>
-        </div>
       </div>
     </section>
   );
