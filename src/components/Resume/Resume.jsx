@@ -1,7 +1,9 @@
+import resumeThumb from "../../assets/Tech-Resume.png";
+
 export default function Resume() {
   return (
     <section id="resume" className="w-full">
-      <div className="py-4 max-w-4xl mx-auto text-center  border-b border-gray-700 pb-2">
+      <div className="py-4 max-w-4xl mx-auto text-center border-b border-gray-700 pb-2">
         <h2 className="text-3xl sm:text-4xl font-bold mb-4 pb-2">Resume</h2>
 
         <a
@@ -11,7 +13,7 @@ export default function Resume() {
           className="block max-w-[200px] mx-auto"
         >
           <img
-            src="/src/assets/Tech-Resume.png"
+            src={resumeThumb}
             alt="Resume Preview"
             className="mt-4 w-full rounded-lg shadow-lg hover:opacity-80 transition"
           />
