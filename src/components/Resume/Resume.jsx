@@ -11,7 +11,7 @@ export default function Resume() {
           className="block max-w-[200px] mx-auto"
         >
           <img
-            src="src\assets\Tech-Resume.png"
+            src="/src/assets/Tech-Resume.png"
             alt="Resume Preview"
             className="mt-4 w-full rounded-lg shadow-lg hover:opacity-80 transition"
           />
