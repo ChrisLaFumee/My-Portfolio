@@ -5,6 +5,11 @@ const About = () => {
       className="py-4 border-b border-gray-700 pb-12 scroll-mt-20"
     >
       <div className="max-w-4xl mx-auto text-center">
+        <img
+          src="/assets/Headshot-Photo.jpg"
+          alt="Christopher LaFumee Headshot"
+          className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover shadow-lg mb-6 md:mb-0"
+        />
         <h2 className="text-4xl font-bold mb-6">About Me</h2>
         <p className="text-lg text-gray-300 leading-relaxed">
           Hi, my name is Christopher — a Full Stack Engineer with a passion for
