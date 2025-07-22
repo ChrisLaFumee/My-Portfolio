@@ -9,7 +9,7 @@ const About = () => {
         <img
           src="/assets/Headshot.png"
           alt="Christopher LaFumee Headshot"
-          className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover shadow-lg mb-6 md:mb-0"
+          className="w-48 h-48 md:w-56 md:h-56 "
         />
         {/* About Text */}
         <div className="text-center md:text-left flex-1">
