@@ -7,7 +7,7 @@ const About = () => {
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center md:items-start gap-8">
         {/* Headshot */}
         <img
-          src="/assets/Headshot-Photo.jpg"
+          src="/assets/Headshot.png"
           alt="Christopher LaFumee Headshot"
           className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover shadow-lg mb-6 md:mb-0"
         />
