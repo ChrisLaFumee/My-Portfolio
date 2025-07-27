@@ -1,12 +1,34 @@
-# React + Vite
+# Chris Cross Coding – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio site — a digital space where code meets creativity and real-world results. Built with performance and simplicity in mind, this site showcases my latest projects, resume, and who I am as both a developer and a creator.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 About Me
 
-## Expanding the ESLint configuration
+I'm **Christopher LaFumee** — a software engineer with a background in personal training, coaching, and small business ownership. I’ve spent 12+ years helping people level up their health, and now I’m building tools that do the same in the digital world.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- **Frontend Framework**: React + Vite
+- **Language**: JavaScript
+- **Styling**: Tailwind CSS
+- **Bundler**: Vite
+- **Hosting**: Vercel
+
+---
+
+## 📂 What's Inside
+
+- ✅ Project showcase (real, working apps)
+- 📄 Downloadable Resume
+- 🔗 External links (LinkedIn, GitHub, and more)
+- 🔥 Fully responsive design (mobile-friendly)
+
+---
+
+## 🌍 Live Demo
+
+[www.chriscrosscoding.com]
