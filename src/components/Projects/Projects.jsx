@@ -14,7 +14,7 @@ export default function Projects() {
               earn real-world rewards.
             </p>
             <a
-              href="https://github.com/ChrisLaFumee/LimitlessHUB"
+              href="https://github.com/ChrisLaFumee/Limitless-HUB"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4 px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
