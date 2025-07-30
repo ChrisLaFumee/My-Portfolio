@@ -10,8 +10,8 @@ export default function Projects() {
               Limitless HUB
             </h3>
             <p className="text-gray-300 text-sm sm:text-base">
-              A full-stack app where users can log workouts, track gains, and
-              earn real-world rewards.
+              A full-stack app where users can can purchase products, sign up
+              for coaching, or view the Limitless communities.
             </p>
             <a
               href="https://github.com/ChrisLaFumee/Limitless-HUB"
