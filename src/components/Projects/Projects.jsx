@@ -17,7 +17,7 @@ export default function Projects() {
               href="https://limitlessprogressions.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block px-4 py-2 rounded-xl border bg-orange-700 hover:bg-orange-800 transition text-white text-sm sm:text-base"
+              className="inline-block px-4 py-2 rounded-xl border hover:bg-orange-700 transition text-white text-sm sm:text-base"
             >
               View Site
             </a>
